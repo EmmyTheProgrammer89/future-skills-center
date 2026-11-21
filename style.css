@@ -1,9 +1,9 @@
 img{
   border-radius:10px;
-  border:20px solid black;
+  border:5px double green;
   margin:20px auto;
   padding:16px;
   object-position:center;
-  height:100px;
+  height:10px;
   width:40px;
 }
