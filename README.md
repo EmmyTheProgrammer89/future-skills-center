@@ -29,6 +29,5 @@ as the Module 2 capstone project.
 - File paths
 - Classes and IDs
 
-## Author
-
-Your Name
+## Author!
+Munyeshyaka Emmanuel
